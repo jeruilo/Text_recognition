@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841820479504",
+    "project_id": "app-fest-controller",
+    "storage_bucket": "app-fest-controller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841820479504:android:8317d054d03488c6642a95",
+        "android_client_info": {
+          "package_name": "com.green_spot.fest_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841820479504-1dp8em5gft8iojklga1396h0r6ih6qub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA518tpzJfjtGC9_ognMssfmDESkxBuag8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841820479504-1dp8em5gft8iojklga1396h0r6ih6qub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
